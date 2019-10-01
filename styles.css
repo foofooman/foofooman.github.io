@@ -1,0 +1,13 @@
+body {
+  background-color: #97d756;
+  font-family: sans-serif
+}
+#listTable {
+	display: grid
+}
+#table {
+	text-align: -webkit-match-parent
+}
+#link {
+	font-size: small
+}
