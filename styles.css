@@ -6,7 +6,7 @@ body {
 	display: grid
 }
 #table {
-	text-align: -webkit-match-parent
+	text-align: left
 }
 #link {
 	font-size: small
